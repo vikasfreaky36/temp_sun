@@ -1,0 +1,21 @@
+{
+    "unit": {
+        "video_id": 11153126,
+        "campaign_id": 1661,
+        "uuid": "LqPjqpQxNLtAps8aefMrTq",
+        "id": 18672777,
+        "status": "ready",
+        "batch_id": null,
+        "notification_url": null,
+        "personalized_data": {
+            "hi-firstname": "Hi-teststage"
+        },
+        "created_at": "2023-06-07T10:26:08.000Z",
+        "updated_at": "2023-06-07T10:26:08.000Z",
+        "meta": {
+            "notification_email_address": null
+        },
+        "campaign_uuid": "NPf9iBRJto7S6o2K9g3UcZ",
+        "video_status": "ready"
+    }
+}
